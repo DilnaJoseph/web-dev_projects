@@ -1,0 +1,57 @@
+body {
+    background-color:hsl(19, 29%, 78%) ;
+    text-align: center;
+  font-family: 'Outfit', sans-serif;
+}
+
+table.ab {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1{
+    font-size: 40px;
+    color:  rgb(107, 5, 5);
+}
+h2{
+    font-size: 32px;
+    color: rgb(107, 5, 5);
+}
+h3{
+    font-size: 18px;
+}
+
+h1, h2, h3, h4{
+  font-family: 'Young Serif', serif;
+}
+li {
+  margin-bottom: 20px; /* adds space below each list item */
+}
+ul {
+  list-style-position: inside; /* bullets inside the content box */
+  text-align: left; 
+  padding-left: 100px;
+}
+ol.space{
+     margin-bottom: 30px;
+}
+ol {
+  list-style-position: inside; /* bullets inside the content box */
+  text-align: left; 
+  padding-left: 100px;
+}
+
+.box{
+    background-color: antiquewhite;
+    border-radius: 30px;
+    padding: 40px;                  
+    max-width: 800px;               /* Responsive width */
+  margin: 40px auto;              /* Center on page */
+  box-shadow: 0 4px 12px rgba(88, 68, 68, 0.1);
+}
+table.ab td{
+    padding-top: 15px;
+    padding-bottom: 5px;
+  border-bottom: 1px solid #340202; /* light gray border around table and cells */
+  border-collapse: collapse; /* merge borders into single line */
+}
