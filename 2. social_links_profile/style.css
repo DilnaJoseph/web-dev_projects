@@ -1,0 +1,51 @@
+body{
+    border-top: 300px solid hsl(0, 0%, 8%);
+    border-bottom: 300px solid hsl(0, 0%, 8%);
+    border-right: 350px solid hsl(0, 0%, 8%);
+    border-left: 350px solid hsl(0, 0%, 8%);
+    background-color:hsl(0, 0%, 12%);
+}
+.pic{
+    border-radius: 100%;
+     display: block;
+     margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-size: 35px;
+    padding-top: 50px;
+    text-align: center;
+    margin: 5px;
+    color: aliceblue;
+}
+.info{
+    font-size: 24px;
+    text-align: center;
+    color: aliceblue;
+}
+.place{
+    font-size: 24px;
+     text-align: center;
+    padding-top: 5px;
+    padding-bottom: 35px;
+    color: hsl(75, 94%, 57%);
+}
+.buttons a{
+    font-size: 20px;
+    width: 75%;
+    display:block;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    text-align: center;
+    padding: 14px;
+    margin:0px auto ;
+    margin-bottom:20px ;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.buttons a:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+}
