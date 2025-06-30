@@ -1,0 +1,48 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    margin: 0;
+    padding: 100px 550px 100px 600px;
+    
+}
+.whole{
+    background-color: hsl(216, 50%, 16%);
+    height:520px;
+    width:275px;
+    border-radius: 20px;
+    margin: 0;
+    padding: 25px;
+    
+}
+.main_img{
+    height:250px;
+    width:275px;
+    border-radius: 10px;
+}
+.clock{
+    padding-left: 100px;
+}
+.items{
+    display: flex;
+}
+.person{
+    height:40px;
+    width:40px;
+    border: 2px solid white;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.flex2{
+    display: flex;
+}
+.text{
+    align-self: center;
+}
+.colour{
+    color: white;
+    display: inline-block; 
+}
+.colour:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
