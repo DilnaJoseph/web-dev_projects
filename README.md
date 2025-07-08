@@ -14,6 +14,7 @@ Explore the list below to see live demos, code, and tools used.
 - [3. Product Preview Page](#3-product-preview-page)
 - [4. NFT Preview Card](#4-nft-preview-card)
 - [5. Social Links Profile](#5-social-links-profile)
+- [6. Quote Generator](#6-quote-generator)
 
 ---
 
@@ -86,6 +87,20 @@ A clean and minimalistic profile page displaying social media links with icons a
 HTML5, CSS3
 
 🚀 **[Live Demo](https://dilnajoseph.github.io/web-dev_projects/2.%20social_links_profile/)**
+
+---
+
+### 6. Quote Generator
+
+![Quote Generator Screenshot](images/quote_generator.png)
+
+**Description:**  
+This simple yet elegant web app displays motivational quotes from famous personalities with the click of a button. Built using HTML, CSS, and JavaScript. Whether you're starting your day or need a boost of inspiration, just click "New Quote" and let words of wisdom guide you!
+
+🔧 **Technologies Used:**  
+HTML5, CSS3, JavaScript
+
+🚀 **[Live Demo](https://dilnajoseph.github.io/web-dev_projects/quote_generator/)**
 
 ---
 
