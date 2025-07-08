@@ -8,15 +8,16 @@ Explore the list below to see live demos, code, and tools used.
 
 ## 📋 Table of Contents
 
-- [📄 Recipe Page](#1-recipe-page)
-- [📄 Result Summary Page](#2-result-summary-page)
-- [📄 Product Preview Page](#3-product-preview-page)
-- [📄 NFT Preview Card](#4-nft-preview-card)
-- [📄 Social Links Profile](#5-social-links-profile)
+- [1. Recipe Page](#1-recipe-page)
+- [2. Result Summary Page](#2-result-summary-page)
+- [3. Product Preview Page](#3-product-preview-page)
+- [4. NFT Preview Card](#4-nft-preview-card)
+- [5. Social Links Profile](#5-social-links-profile)
+
 
 ---
 
-### 📄 1. Recipe Page
+### 1. Recipe Page
 
 ![Portfolio Screenshot](images/recipe_page.png)
 
@@ -31,7 +32,7 @@ HTML5, CSS3
 ---
 
 
-### 📄 2. Result Summary Page
+### 2. Result Summary Page
 
 ![Portfolio Screenshot](images/results_summary.png)
 
@@ -46,7 +47,7 @@ HTML5, CSS3
 ---
 
 
-### 📄 3. Product Preview Page
+### 3. Product Preview Page
 
 ![Portfolio Screenshot](images/product_preview_card.png)
 
@@ -61,7 +62,7 @@ HTML5, CSS3
 ---
 
 
-### 📄 4. NFT Preview Card Summary Page
+### 4. NFT Preview Card Summary Page
 
 ![Portfolio Screenshot](images/nft_preview_card.png)
 
@@ -76,7 +77,7 @@ HTML5, CSS3
 ---
 
 
-### 📄 5. Profile Page
+### 5. Profile Page
 
 ![Portfolio Screenshot](images/social_links_profile.png)
 
