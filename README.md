@@ -8,7 +8,7 @@ Welcome to my web development portfolio repository! This repo contains all the p
 
 ### 1. Recepie Page
 
-![Portfolio Screenshot](images/recepie_page.png)
+![Portfolio Screenshot](images/recipe_page.png)
 
 **Description:**  
 A clean and visually appealing recipe webpage that displays detailed ingredients and cooking instructions. It’s designed with a responsive layout for easy viewing on different devices, featuring organized sections and user-friendly navigation.
