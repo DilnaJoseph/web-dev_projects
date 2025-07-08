@@ -38,14 +38,14 @@ body{
     box-shadow: 0 0 10px;
 }
 
-.main-content.text{
-    font-size: 2rem;
+.main-content .text{
+    font-size: 1.8rem;
     line-height:1.5;
 }
 
-.main-content.person{
+.main-content .person{
     font-size: 1.6rem;
-    color: red;
+    color: rgba(255, 0, 0, 0.247);
     text-transform: uppercase;
     margin-top: 20px;
 }
