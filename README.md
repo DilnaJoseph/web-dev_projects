@@ -17,7 +17,7 @@ A clean and visually appealing recipe webpage that displays detailed ingredients
 HTML5, CSS3
 
 **Live Demo:**  
-[https://dilnajoseph.github.io/recipe_page]([https://dilnajoseph.github.io/web-dev_projects/recipe-page/])
+[Live Demo](https://dilnajoseph.github.io/web-dev_projects/recipe-page/)
 
 ---
 
@@ -33,7 +33,7 @@ An interactive result summary dashboard that visually presents user scores and p
 HTML5, CSS3
 
 **Live Demo:**  
-[https://dilnajoseph.github.io/recipe_page]([https://dilnajoseph.github.io/web-dev_projects/result_summary/])
+[Live Demo](https://dilnajoseph.github.io/web-dev_projects/result_summary/)
 
 ---
 
@@ -49,7 +49,7 @@ A sleek and modern product preview card showcasing product images, details, and 
 HTML5, CSS3
 
 **Live Demo:**  
-[https://dilnajoseph.github.io/recipe_page]([https://dilnajoseph.github.io/web-dev_projects/product_preview_card/])
+[Live Demo](https://dilnajoseph.github.io/web-dev_projects/product_preview_card/)
 
 ---
 
@@ -65,7 +65,7 @@ A stylish NFT preview card designed to showcase digital artwork with essential d
 HTML5, CSS3
 
 **Live Demo:**  
-[https://dilnajoseph.github.io/recipe_page]([https://dilnajoseph.github.io/web-dev_projects/nft_preview_card/])
+[Live Demo](https://dilnajoseph.github.io/web-dev_projects/nft_preview_card/)
 
 ---
 
@@ -81,7 +81,7 @@ A clean and minimalistic profile page displaying social media links with icons a
 HTML5, CSS3
 
 **Live Demo:**  
-[https://dilnajoseph.github.io/recipe_page]([https://dilnajoseph.github.io/web-dev_projects/2.%20social_links_profile/])
+[Live Demo](https://dilnajoseph.github.io/web-dev_projects/2.%20social_links_profile/)
 
 ---
 
