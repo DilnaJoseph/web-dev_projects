@@ -89,11 +89,3 @@ HTML5, CSS3
 
 ---
 
-## 👩‍💻 Author
-
-**Dilna Mariya Joseph**  
-[GitHub](https://github.com/DilnaJoseph)
-
----
-
-
