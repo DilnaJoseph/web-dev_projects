@@ -16,8 +16,7 @@ A clean and visually appealing recipe webpage that displays detailed ingredients
 **Technologies Used:**  
 HTML5, CSS3
 
-**Live Demo:**  
-[Live Demo](https://dilnajoseph.github.io/web-dev_projects/recipe-page/)
+[Live Demo:](https://dilnajoseph.github.io/web-dev_projects/recipe-page/)
 
 ---
 
@@ -31,8 +30,7 @@ An interactive result summary dashboard that visually presents user scores and p
 
 **Technologies Used:**  
 HTML5, CSS3
-
-**Live Demo:**  
+ 
 [Live Demo](https://dilnajoseph.github.io/web-dev_projects/result_summary/)
 
 ---
@@ -48,7 +46,6 @@ A sleek and modern product preview card showcasing product images, details, and 
 **Technologies Used:**  
 HTML5, CSS3
 
-**Live Demo:**  
 [Live Demo](https://dilnajoseph.github.io/web-dev_projects/product_preview_card/)
 
 ---
@@ -63,8 +60,7 @@ A stylish NFT preview card designed to showcase digital artwork with essential d
 
 **Technologies Used:**  
 HTML5, CSS3
-
-**Live Demo:**  
+ 
 [Live Demo](https://dilnajoseph.github.io/web-dev_projects/nft_preview_card/)
 
 ---
@@ -80,7 +76,6 @@ A clean and minimalistic profile page displaying social media links with icons a
 **Technologies Used:**  
 HTML5, CSS3
 
-**Live Demo:**  
 [Live Demo](https://dilnajoseph.github.io/web-dev_projects/2.%20social_links_profile/)
 
 ---
