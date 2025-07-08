@@ -1,18 +1,18 @@
-# Web Development Projects 
+# 🌐 Web Development Projects 
 
 Welcome to my web development portfolio repository! This repo contains all the projects I’ve built during my journey learning web development. Each project highlights different skills and technologies I have worked with.
 Explore the list below to see live demos, code, and tools used.
 ---
 
-🗃️ ## Projects
+## 🗃️ Projects
 
-📋 ## Table of Contents
+## 📋 Table of Contents
 
-- [Recipe Page](#recipe-page)
-- [Result Summary](#result-summary)
-- [Product Preview Card](#product-preview-card)
-- [NFT Preview Card](#nft-preview-card)
-- [Social Links Profile](#social-links-profile)
+- [📄 Recipe Page](#1-recipe-page)
+- [📄 Result Summary Page](#2-result-summary-page)
+- [📄 Product Preview Page](#3-product-preview-page)
+- [📄 NFT Preview Card](#4-nft-preview-card)
+- [📄 Social Links Profile](#5-social-links-profile)
 
 ---
 
