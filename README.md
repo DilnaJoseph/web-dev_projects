@@ -15,6 +15,7 @@ Explore the list below to see live demos, code, and tools used.
 - [4. NFT Preview Card](#4-nft-preview-card)
 - [5. Social Links Profile](#5-social-links-profile)
 - [6. Quote Generator](#6-quote-generator)
+- [7. FAQ - accordion](#7-FAQ-accordion)
 
 ---
 
@@ -101,6 +102,20 @@ This simple yet elegant web app displays motivational quotes from famous persona
 HTML5, CSS3, JavaScript
 
 🚀 **[Live Demo](https://dilnajoseph.github.io/web-dev_projects/quote_generator/)**
+
+---
+
+### 7. FAQ accordion
+
+![FAQ accordion Screenshot](images/FAQ_accordion.png)
+
+**Description:**  
+An interactive and responsive FAQ Accordion component that allows users to expand and collapse questions to view the corresponding answers. This project emphasizes clean layout, accessible HTML structure, and smooth transitions using CSS and JavaScript.
+
+🔧 **Technologies Used:**  
+HTML5, CSS3, JavaScript
+
+🚀 **[Live Demo](https://dilnajoseph.github.io/web-dev_projects/FAQ%20-%20accordion/)**
 
 ---
 
