@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  font-family: 'Work Sans', sans-serif;
+  background-image:
+    url('background-pattern-desktop.svg'),
+    linear-gradient(to bottom, hsl(275, 100%, 97%) 33%, hsl(275, 100%, 97%) 33%);
+  background-repeat: no-repeat;
+   background-position: top;
+  background-size: 100% auto;
+  background-color: hsl(275, 100%, 97%);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 6rem 1.5rem;
+  
+}
+
+.whole-box{
+    background-color: aliceblue;
+    border-radius: 15px;
+    width:500px;
+    height:500px;
+    padding: 40px;
+}
+.faqs{
+    font-weight:1000 ;
+    padding-bottom: 25px;
+}
+.toggle-btn{
+    background-color:hsl(275, 100%, 97%) ;
+    border: 0cap;
+    border-radius: 100%;
+}
+
+.question-row{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.question-text{
+    font-weight: bold;
+}
+
+.question-row:hover .question-text {
+  color: hsl(292, 100%, 45%);
+}
+
+.answer{
+  display: none;
+    font-size : 16px;
+    padding-bottom: 10px;
+}
+
+.answer.show {
+  display: block;
+}
