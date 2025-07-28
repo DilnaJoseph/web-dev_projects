@@ -16,6 +16,7 @@ Explore the list below to see live demos, code, and tools used.
 - [5. Social Links Profile](#5-social-links-profile)
 - [6. Quote Generator](#6-quote-generator)
 - [7. FAQ - accordion](#7-FAQ-accordion)
+- [8. Interactive rating component](#7-Interactive-rating-component)
 
 ---
 
@@ -116,6 +117,20 @@ An interactive and responsive FAQ Accordion component that allows users to expan
 HTML5, CSS3, JavaScript
 
 🚀 **[Live Demo](https://dilnajoseph.github.io/web-dev_projects/FAQ%20-%20accordion/)**
+
+---
+
+### 7. Interactive rating component
+
+![Interactive rating component Screenshot](images/interactive_rating_component.png)
+
+**Description:**  
+A sleek and responsive rating component that allows users to select a score from 1 to 5 and submit their feedback. The selected rating is visually highlighted, and upon submission, a thank-you message is displayed showing the selected rating. 
+
+🔧 **Technologies Used:**  
+HTML5, CSS3, JavaScript
+
+🚀 **[Live Demo](https://dilnajoseph.github.io/web-dev_projects/interactive_rating_component/)**
 
 ---
 
