@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: 'Manrope',sans-serif;
+    background-color: hsl(210, 46%, 95%);
+    min-height: 100vh;
+}
+
+.whole-box{
+    display:flex;
+    height: auto;
+    height: 350px;
+    width: 1000px;
+    overflow: hidden;
+}
+
+.image img{
+    height: 350px;
+    width: 450px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.person{
+    height: 60px;
+    width:60px;
+    margin-left: 30px;
+    border-radius: 50% ;
+    margin: 20px;
+}
+
+.content{
+    background-color: white;
+    padding: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+}
+
+.btn{
+    background-color: hsl(210, 46%, 95%);
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn:hover {
+  background-color: hsl(212, 23%, 69%);
+}
+
+.person_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.share_pic{
+    width: 15px;
+    height:15px;
+}
+
+.pop-up{
+    display: none;
+  position: absolute;
+  bottom: 60px;
+  right: 0;
+  background-color: hsl(217, 19%, 35%);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  gap: 10px;
+  align-items: center;
+  z-index: 10;}
+
+.pop-up::after{
+    content: "";
+  position: absolute;
+  bottom: -10px;
+  right: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: hsl(217, 19%, 35%) transparent transparent transparent;
+}
+
+.share-cont{
+    position: relative;
+}
+
+.heading{
+    font-size: 28px;
+}
