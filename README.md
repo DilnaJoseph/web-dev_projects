@@ -16,8 +16,8 @@ Explore the list below to see live demos, code, and tools used.
 - [5. Social Links Profile](#5-social-links-profile)
 - [6. Quote Generator](#6-quote-generator)
 - [7. FAQ - accordion](#7-FAQ-accordion)
-- [8. Interactive rating component](#7-Interactive-rating-component)
-- [9. Article preview component](#8-Article-preview-component)
+- [8. Interactive rating component](#8-Interactive-rating-component)
+- [9. Article preview component](#9-Article-preview-component)
 
 ---
 
@@ -137,7 +137,7 @@ HTML5, CSS3, JavaScript
 
 ### 9. Article preview component
 
-![Interactive rating component Screenshot](images/article_preview_component.png)
+![Article preview component](images/article_preview_component.png)
 
 **Description:**  
 A clean and responsive article preview card that includes user information, article title, description, and an interactive share button that displays social media icons on hover. This project focuses on modern layout techniques using Flexbox and enhances user experience with subtle UI interactions.
@@ -146,6 +146,7 @@ A clean and responsive article preview card that includes user information, arti
 HTML5, CSS3, JavaScript
 
 🚀 **[Live Demo](https://dilnajoseph.github.io/web-dev_projects/article-preview-component/)**
+
 
 ---
 
