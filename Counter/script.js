@@ -38,5 +38,5 @@ count.addEventListener("mouseenter", () => {
 });
 
 count.addEventListener("mouseleave", () => {
-  colour();
+  color();
 });
