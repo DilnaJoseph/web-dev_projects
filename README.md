@@ -18,6 +18,7 @@ Explore the list below to see live demos, code, and tools used.
 - [7. FAQ - accordion](#7-FAQ-accordion)
 - [8. Interactive rating component](#8-Interactive-rating-component)
 - [9. Article preview component](#9-Article-preview-component)
+- [10. Counter](#10-Counter)
 
 ---
 
@@ -150,3 +151,17 @@ HTML5, CSS3, JavaScript
 
 ---
 
+### 10. Counter
+
+![Counter](images/Counter.png)
+
+**Description:**  
+A simple yet elegant counter web app that allows users to increase, decrease, or reset a numerical values. The counter’s color dynamically changes — turning green for positive, red for negative, and blue for neutral values. Designed with a clean layout, hover animations, and responsive styling for an engaging user experience.
+
+🔧 **Technologies Used:**  
+HTML5, CSS3, JavaScript
+
+🚀 **[Live Demo](https://dilnajoseph.github.io/web-dev_projects/Counter/)**
+
+
+---
