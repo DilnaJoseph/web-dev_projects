@@ -1,0 +1,118 @@
+*{
+    margin:0;
+    padding:0;
+     box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(background.png) no-repeat center center fixed;
+    background-size: cover;
+    color: #403f3f;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    letter-spacing: 2px;
+}
+h1{
+    margin-bottom: 15px;
+    letter-spacing: 4px;
+     font-weight: 700;
+     font-family: "Poppins", sans-serif;
+     text-shadow: 2px 2px 6px rgba(0,0,0,0.25); 
+    color: #2e2e2e;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 40px;    
+}
+.board{
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: center;
+    border-color: #767575;
+    border-width: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    margin: 50px;
+    height: 70vh;    
+    overflow: hidden;
+}
+.backlog, .next, .inprogress, .testing, .done{
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: auto;
+    width: 20%;
+    margin: 20px;
+    padding: 15px;
+    height: 100%;             
+    overflow-y: auto;         
+    overflow-x: hidden;        
+    scrollbar-width: thin;  
+}
+ .backlog:hover, .next:hover, .inprogress:hover, .testing:hover,.done:hover{
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.315);
+}
+.heading{
+    font-size: 22px;
+    font-weight: 600;
+    color: #535151;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.add-icon{
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 15px;
+    width: 15px;
+}
+.add-text{
+    margin-left:25px ;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+    background-color: rgb(218, 232, 244);
+    border-color:rgb(218, 232, 244) ;
+    height: 40px;
+    width: 150px;
+    color: #767575;
+    cursor: pointer;
+}
+.add-text:hover{
+    background-color: rgb(200, 220, 235);
+}
+.task-box {
+    background: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    font-size: 14px;
+    width: 200px;         
+    box-sizing: border-box;
+}
+.task-box:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    transform: translateY(-2px);
+    transition: all 0.2s ease-in-out;
+}
+.task-title {
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 6px;
+    word-wrap:break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    color: #333;
+    outline: none;
+    cursor: text;
+}
+
+.task-title:focus {
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+}

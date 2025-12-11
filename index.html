@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanban Board</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="/manifest.json">
+</head>
+<body>
+        <h1>Kanban Board</h1>
+
+        <div class="board">
+            <div class = "backlog">
+                <div class = "heading">BACKLOG(<span class = "number1">0</span>)</div>
+                <div class = "add-task">
+                    <button class="add-text" id = "button1">
+                        <img src="plus-icon.png" alt="Add Task Icon" class="add-icon">
+                        Add Task
+                        </button>                   
+                </div>
+                <div class="list1" id="backlog-tasks"></div>
+            </div>
+            <div class = "next">
+                <div class = "heading">NEXT(<span class = "number2">0</span>)</div>
+                <div class = "add-task">
+                    <button class="add-text" id = "button2">
+                        <img src="plus-icon.png" alt="Add Task Icon" class="add-icon">
+                        Add Task
+                    </button>                   
+                </div>
+                <div class="list2" id="next-tasks"></div>
+            </div>
+            <div class = "inprogress">
+                <div class = "heading">IN PROGRESS(<span class = "number3">0</span>)</div>
+                <div class = "add-task">
+                    <button class="add-text" id = "button3">
+                        <img src="plus-icon.png" alt="Add Task Icon" class="add-icon">
+                        Add Task
+                    </button>                    
+                </div>
+                <div class="list3" id="inprogress-tasks"></div>
+            </div>
+            <div class = "testing">
+                <div class = "heading">TESTING(<span class = "number4">0</span>)</div>
+                <div class = "add-task">
+                    <button class="add-text" id = "button4">
+                        <img src="plus-icon.png" alt="Add Task Icon" class="add-icon">Add Task
+                   </button>                  
+                </div>
+                <div class="list4" id="testing-tasks"></div>
+            </div>
+            <div class = "done">
+                <div class = "heading">DONE(<span class = "number5">0</span>)</div>
+                <div class = "add-task">
+                    <button class="add-text" id = "button5">
+                        <img src="plus-icon.png" alt="Add Task Icon" class="add-icon">
+                        Add Task  
+                    </button>                 
+                </div>
+                <div class="list5" id="done-tasks"></div>
+            </div>
+        </div>
+        <script src="script.js"></script>
+</body>
+</html>
